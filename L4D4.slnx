@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="L4D4/L4D4.vcxproj" Id="a3e522b3-dc1d-4a51-a32c-98d57fab5648">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+</Solution>
